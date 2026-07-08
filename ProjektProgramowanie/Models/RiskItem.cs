@@ -8,8 +8,8 @@ namespace ProjektProgramowanie.Models
     {
         Techniczne,
         Organizacyjne,
-        Zgodnosc,
-        Bezpieczenstwo
+        Zgodność,
+        Bezpieczeństwo
     }
 
     public enum RiskStatus
@@ -17,7 +17,7 @@ namespace ProjektProgramowanie.Models
         Otwarte,
         Realizowane,
         Zaakceptowane,
-        Rozwiazane
+        Rozwiązane
     }
 
     /// <summary>
